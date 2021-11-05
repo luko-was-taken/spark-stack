@@ -1,2 +1,1 @@
-# spark-docker
 # spark-stack
